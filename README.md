@@ -1,5 +1,16 @@
 # 11 Express.js: Note Taker
 
+This assignment was to create a note-taker application using express.
+I could not figure out what to do next, so I do not have a functional webpage resulting in me not having a screenshot or video.... I will return to this assignment at a later time
+____________________________
+git repository
+https://github.com/PolishMustard624853/note-taker
+
+heroku repository
+https://dashboard.heroku.com/apps/cjs-note-taker
+
+
+end_____________________________________________________________________________
 ## Your Task
 
 Your assignment is to modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
