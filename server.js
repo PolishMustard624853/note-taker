@@ -26,6 +26,18 @@ app.get('/', (req, res) => {
 });
 
 
+
+app.post('/api/notes', (req, res) => {
+    let newNote = req.body;
+    noteList.push(newNote);
+    updateDb();
+    return console.log('Succesfully added a new note to:' +newNote.title)
+})
+
+
+
+
+
 app.listen(PORT, () =>
-    console.log(`App listening at http://localhost:${PORT}!`)
+    console.log(`App listening at http://localhost:${PORT}! 🚀`)
 );
