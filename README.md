@@ -1,7 +1,7 @@
 # 11 Express.js: Note Taker
 
 This assignment was to create a note-taker application using express.
-I could not figure out what to do next, so I do not have a functional webpage resulting in me not having a screenshot or video.... I will return to this assignment at a later time
+I was able to install express and get the server to run. What I can not figure out is why my notes.html looks so odd even though those were files I had not touched because they were given to us. You can open html in live server but the notes do not save. I am unsure as to why so I am hoping for some feedback on this because I feel I am very close to having this be a functional webpage.
 ____________________________
 git repository
 https://github.com/PolishMustard624853/note-taker
