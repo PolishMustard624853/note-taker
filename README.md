@@ -9,6 +9,9 @@ https://github.com/PolishMustard624853/note-taker
 heroku repository
 https://dashboard.heroku.com/apps/cjs-note-taker
 
+Video Walkthrough
+https://app.vidcast.io/share/c2ea255d-cbfe-43fc-b228-542361184983
+
 
 end_____________________________________________________________________________
 ## Your Task
